@@ -1,0 +1,1 @@
+alert("A Loja nao se encontra disponivel de momento");
